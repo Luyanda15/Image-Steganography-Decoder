@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ISD_Decoder.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" \
+"../../../../ISD_Decoder.srcs/sources_1/new/isd_decoder.v" \
+"../../../../ISD_Decoder.srcs/sources_1/new/stego_detector.v" \
+"../../../../ISD_Decoder.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

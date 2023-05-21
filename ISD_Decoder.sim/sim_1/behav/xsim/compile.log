@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/Documents/EEE4120F/ISD_Decoder/ISD_Decoder.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/Documents/EEE4120F/ISD_Decoder/ISD_Decoder.srcs/sources_1/new/isd_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module isd_decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/Documents/EEE4120F/ISD_Decoder/ISD_Decoder.srcs/sources_1/new/stego_detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stego_detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/Documents/EEE4120F/ISD_Decoder/ISD_Decoder.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
